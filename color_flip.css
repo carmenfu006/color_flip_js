@@ -1,0 +1,21 @@
+.color-info {
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 12px;
+  max-width: 500px;
+  margin: auto;
+  background: #ebebeb;
+  padding: 10px;
+  font-size: 40px;
+  margin-top: 200px;
+}
+
+button {
+  font-size: 20px;
+  padding: 10px 30px;
+  border-radius: 20px;
+  margin-bottom: 50px;
+  background-color: rgb(5, 126, 134);
+}
+
+button:focus {outline:0;}
